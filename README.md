@@ -1,2 +1,3 @@
 # HenryPrepCourse
-Practicas
+
+Primer proyecto de GIT
